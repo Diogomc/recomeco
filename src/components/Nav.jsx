@@ -5,6 +5,7 @@ const items = [
   ["#empregos", "Empregos"],
   ["#curriculo", "Currículo"],
   ["#comida", "Comida a R$ 1"],
+  ["#renda-sustentavel", "Renda sustentável"],
   ["#empreender", "Empreender"],
 ];
 

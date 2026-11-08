@@ -5,9 +5,7 @@ export default function Footer() {
         <div>
           <strong className="brand">Recomeço</strong>
           <p>
-            Projeto de extensão universitária alinhado aos Objetivos de Desenvolvimento Sustentável
-            da ONU: ODS 1 (erradicação da pobreza) e ODS 8 (trabalho decente e crescimento
-            econômico).
+          ODS 1 (erradicação da pobreza) e ODS 8 (trabalho decente e crescimento econômico), no itinerário de Economia Sustentável.
           </p>
         </div>
         <div>

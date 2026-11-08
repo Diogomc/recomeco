@@ -160,3 +160,34 @@ export const dicasPrimeiroEmprego = [
   "Cursos do Qualifica, Senai e Senac entram na seção “Cursos” do currículo.",
   "Leve o currículo impresso ao PAT: ele agiliza o encaminhamento.",
 ];
+
+export const renda = {
+  texto:
+    "A cidade já tem iniciativas que unem meio ambiente e renda. Algumas servem para alimentação e aprendizado, outras para trabalho. Veja o que existe e como se aproximar.",
+  itens: [
+    {
+      t: "Hortas urbanas e comunitárias",
+      o: "O Programa Hortas Urbanas, da Prefeitura desde 2009, está em 56 escolas municipais, com oficinas de plantio, compostagem e biodigestores. Na UBS Dom Pedro (zona sul), funcionários e frequentadores cuidam de uma horta comunitária: em agosto de 2025, cerca de 90 pessoas receberam hortaliças e ervas de graça.",
+      c: "Para pedir uma horta no seu bairro ou espaço comunitário, ligue para a Central 156 ou para (12) 3947-8727. As notícias oficiais falam de alimento e educação, não de venda. Se quiser vender o que produz, comece pela seção Empreender.",
+      f: "https://sjc.sp.gov.br/noticias/2026/maio/04/programa-hortas-urbanas-chega-a-mais-de-50-escolas-da-cidade/",
+    },
+    {
+      t: "Reciclagem e cooperativas",
+      o: "A coleta seletiva atende 100% da área urbana. Separar os recicláveis gera renda para as cooperativas de catadores. Nas feiras livres, os contêineres azuis são para recicláveis e os marrons para lixo orgânico.",
+      c: "Separe o lixo em casa e, nas feiras, use o contêiner certo. Para saber como trabalhar numa cooperativa, pergunte na Central 156.",
+      f: "https://www.sjc.sp.gov.br/noticias/2022/junho/20/servico-de-coleta-seletiva-e-implantado-em-feiras-livres/",
+    },
+    {
+      t: "Artesanato e negócio próprio",
+      o: "Em 2018, a Prefeitura e o Sebrae ofereceram aos artesãos um curso de gestão empreendedora (26 horas, 9 encontros) sobre preço, plano de negócio e vendas pelas redes sociais. Cerca de 180 artesãos cadastrados na Sutaco participaram.",
+      c: "Essa informação é de 2018. Pergunte na Central 156 ou na Diretoria de Turismo da Prefeitura se há cadastro de artesãos e nova turma.",
+      f: "https://www.sjc.sp.gov.br/noticias/2018/outubro/3/prefeitura-incentiva-capacitacao-empreendedora-de-artesaos/",
+    },
+    {
+      t: "Compostagem e economia circular",
+      o: "Reaproveitar resíduos é tema da cidade: as hortas escolares fazem oficinas de compostagem, e em outubro de 2025 a Prefeitura, a Urbam e o Instituto Valoriza Resíduos reuniram mais de 100 pessoas num seminário sobre resíduos e economia circular.",
+      c: "Não encontramos curso aberto ao público sobre o tema. Pergunte na Central 156 e acompanhe as notícias da Prefeitura.",
+      f: "https://www.sjc.sp.gov.br/noticias/2025/outubro/07/seminario-debate-residuos-solidos-e-economia-circular/",
+    },
+  ],
+};

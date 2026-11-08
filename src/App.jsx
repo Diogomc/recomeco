@@ -6,6 +6,7 @@ import Resume from "./components/Resume.jsx";
 import Food from "./components/Food.jsx";
 import Business from "./components/Business.jsx";
 import Footer from "./components/Footer.jsx";
+import Sustainable from "./components/sustainable.jsx";
 
 export default function App() {
   return (
@@ -20,6 +21,7 @@ export default function App() {
         <Jobs />
         <Resume />
         <Food />
+        <Sustainable/>
         <Business />
       </main>
       <Footer />

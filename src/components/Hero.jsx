@@ -144,8 +144,7 @@ export default function Hero() {
           começa aqui.
         </h1>
         <p className="hero-lead">
-          Cursos gratuitos, vagas de emprego, um modelo de currículo e refeições a R$ 1. Tudo
-          reunido, com endereço e horário, para você agir hoje.
+        Cursos gratuitos, vagas de emprego, um modelo de currículo, refeições a R$ 1 e ideias de renda sustentável. Tudo reunido, com endereço e horário, para você agir hoje.
         </p>
         <div className="hero-actions">
           <a className="btn btn-sun" href="#cursos">
