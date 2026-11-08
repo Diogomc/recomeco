@@ -6,7 +6,7 @@ import Resume from "./components/Resume.jsx";
 import Food from "./components/Food.jsx";
 import Business from "./components/Business.jsx";
 import Footer from "./components/Footer.jsx";
-import Sustainable from "./components/sustainable.jsx";
+import Sustainable from "./components/Sustainable.jsx";
 
 export default function App() {
   return (
